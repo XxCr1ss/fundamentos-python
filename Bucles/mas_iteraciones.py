@@ -22,6 +22,6 @@ else:
 for letra in cadena:
     print(letra)
 
-#for en uuna sola linea de codigo (duplicamos los numeros)
+#for en una sola linea de codigo (duplicamos los numeros)
 numeros_duplicados = [x*2 for x in numeros]
 print(numeros_duplicados)
